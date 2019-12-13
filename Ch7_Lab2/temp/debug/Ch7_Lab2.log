@@ -1,0 +1,7 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(437,5): warning MSB8004: Intermediate Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Intermediate Directory.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(438,5): warning MSB8004: Output Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Output Directory.
+  Main.cpp
+C:\Pig\C++HW\Ch7_Lab2\source\Main.cpp(12,1): warning C4326: 'main' 的傳回類型應該是 'int'，而非 'void'
+C:\Pig\C++HW\Ch7_Lab2\source\Main.cpp(33,16): warning C4477: 'fscanf_s' : 格式字串 '%f' 需要 'float *' 類型的引數，但 variadic 引數 1 的類型為 'double *'
+C:\Pig\C++HW\Ch7_Lab2\source\Main.cpp(33,16): message : 請考慮在格式字串中使用 '%lf'
+  Ch7_Lab2.vcxproj -> C:\Pig\C++HW\Ch7_Lab2\Ch7_Lab2\..\temp\debug\Ch7_Lab2.exe

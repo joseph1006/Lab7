@@ -1,0 +1,6 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(437,5): warning MSB8004: Intermediate Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Intermediate Directory.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(438,5): warning MSB8004: Output Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Output Directory.
+  Main.cpp
+C:\Pig\C++HW\Ch7_Lab1\source\Main.cpp(13,1): warning C4326: 'main' 的傳回類型應該是 'int'，而非 'void'
+C:\Pig\C++HW\Ch7_Lab1\source\Main.cpp(36,30): warning C4244: '=': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+  Ch7_Lab1.vcxproj -> C:\Pig\C++HW\Ch7_Lab1\Ch7_Lab1\..\temp\debug\Ch7_Lab1.exe
